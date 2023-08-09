@@ -1,4 +1,4 @@
-# Diabetes classifier using svm model
+# Diabetes classifier using SVM model
 This is my simple prediction model in machine learning! 🎉
 The model is designed to predict whether a person has diabetes based on certain features, using the PIMA dataset from Kaggle.I have used Support Vector Machines (SVM) as our algorithm, known for its robust performance in classification tasks. 💪
 Here's what makes the model unique:
